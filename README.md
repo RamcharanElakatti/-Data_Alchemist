@@ -65,7 +65,7 @@ Edit
 ## 🚀 Local Setup
 
 ```bash
-git clone https://github.com/<you>/data-alchemist.git
+git clone https://github.com/RamcharanElaktti/data-alchemist.git
 cd data-alchemist
 npm install
 
